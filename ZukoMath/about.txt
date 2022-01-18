@@ -1,7 +1,0 @@
-| ZukoMath is a Computational Math Engine that calculates and
-| provides step-by-step solutions for a variety of equations
-| and problems from high school and university level math
-| courses. The program is developed by Steven Zhou, a Computer
-| Science student at the University of Waterloo. The
-| developer is constantly updating the program, introducing
-| new features every month.
